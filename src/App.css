@@ -1,0 +1,31 @@
+.layout {
+  display: grid;
+  grid-template-areas:
+    'header header header header header header header header'
+    'geomap geomap geomap geomap geomap geomap geomap geomap';
+}
+.header {
+  background-color: rgb(134, 255, 215);
+  border-bottom: rgb(43, 173, 103) 1px solid;
+  padding: 10px;
+  grid-area: header;
+}
+.title a {
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+.geomap {
+  grid-area: geomap;
+}
+
+.geopoint {
+  background-color: red;
+  border-radius: 50%;
+}
+
+.geotext {
+  text-align: center;
+}
