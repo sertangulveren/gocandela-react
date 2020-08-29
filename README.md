@@ -1,6 +1,6 @@
 **Intro**
 
-This is a react project that allows to show GoCadela data on the map.
+This is a react project that allows to show GoCandela data on the map.
 
 It is not a completed yet.
 
