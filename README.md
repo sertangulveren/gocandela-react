@@ -6,6 +6,8 @@ It is not a completed yet.
 
 **Demo:** https://gocandela-react.vercel.app
 
+**Backend:** https://github.com/yigitsadic/gocandela
+
 In the project directory, you can run:
 
 ### `npm start`
